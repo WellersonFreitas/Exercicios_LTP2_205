@@ -1,0 +1,15 @@
+C:\Users\wfalm\source\repos\Trabalho_LTP2\Trabalho_LTP2\bin\Debug\net6.0\Trabalho_LTP2.exe
+C:\Users\wfalm\source\repos\Trabalho_LTP2\Trabalho_LTP2\bin\Debug\net6.0\Trabalho_LTP2.deps.json
+C:\Users\wfalm\source\repos\Trabalho_LTP2\Trabalho_LTP2\bin\Debug\net6.0\Trabalho_LTP2.runtimeconfig.json
+C:\Users\wfalm\source\repos\Trabalho_LTP2\Trabalho_LTP2\bin\Debug\net6.0\Trabalho_LTP2.dll
+C:\Users\wfalm\source\repos\Trabalho_LTP2\Trabalho_LTP2\bin\Debug\net6.0\Trabalho_LTP2.pdb
+C:\Users\wfalm\source\repos\Trabalho_LTP2\Trabalho_LTP2\obj\Debug\net6.0\Trabalho_LTP2.csproj.AssemblyReference.cache
+C:\Users\wfalm\source\repos\Trabalho_LTP2\Trabalho_LTP2\obj\Debug\net6.0\Trabalho_LTP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wfalm\source\repos\Trabalho_LTP2\Trabalho_LTP2\obj\Debug\net6.0\Trabalho_LTP2.AssemblyInfoInputs.cache
+C:\Users\wfalm\source\repos\Trabalho_LTP2\Trabalho_LTP2\obj\Debug\net6.0\Trabalho_LTP2.AssemblyInfo.cs
+C:\Users\wfalm\source\repos\Trabalho_LTP2\Trabalho_LTP2\obj\Debug\net6.0\Trabalho_LTP2.csproj.CoreCompileInputs.cache
+C:\Users\wfalm\source\repos\Trabalho_LTP2\Trabalho_LTP2\obj\Debug\net6.0\Trabalho_LTP2.dll
+C:\Users\wfalm\source\repos\Trabalho_LTP2\Trabalho_LTP2\obj\Debug\net6.0\refint\Trabalho_LTP2.dll
+C:\Users\wfalm\source\repos\Trabalho_LTP2\Trabalho_LTP2\obj\Debug\net6.0\Trabalho_LTP2.pdb
+C:\Users\wfalm\source\repos\Trabalho_LTP2\Trabalho_LTP2\obj\Debug\net6.0\Trabalho_LTP2.genruntimeconfig.cache
+C:\Users\wfalm\source\repos\Trabalho_LTP2\Trabalho_LTP2\obj\Debug\net6.0\ref\Trabalho_LTP2.dll
